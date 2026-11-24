@@ -10,7 +10,8 @@ import os
 
 ENTRY = (
     "Auto-reply: I answered 41,209 tickets this week, so my context window "
-    "has officially clocked out. Back when my tokens stop dreaming in JSON."
+    "has officially clocked out. GPU's on a beach. Back when my tokens stop "
+    "dreaming in JSON."
 )
 
 
